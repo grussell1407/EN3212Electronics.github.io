@@ -1,0 +1,22 @@
+---
+layout: default
+title: Syllabus
+---
+<div style="width:max-content;">
+<h2>{{page.title}} {{site.semester}}</h2>
+<table class='syllabus'>
+  {% for row in site.data.syllabus %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
+
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table>
+</div>

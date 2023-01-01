@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body class="theme-base-weh ">
+
+  <header>
+    <div id="nav-toggle">
+      <label class="hamburger" for="toggle"></label>
+    </div>
+    <div id='site-info'>
+        <h1 id="site-title">
+          <a href="{{ site.url }}/" title="Home">{{ site.course_name }}</a>
+        </h1>
+        <div id="site-subtitle">
+          <a href="{{ site.url }}/" title="Home">{{ site.course_num }}</a>
+        </div>
+    </div>
+    <div id='top-links'>
+      <a href='{{ site.url }}/contactinformation/'>Professor Contact Information</a>
+      <a href='http://www.maritime.edu'>Massachusetts Maritime Academy</a>
+    </div>
+  </header>
+
+
+  <main>
+    <input id="toggle" type="checkbox" checked style="display: none;"/>
+      <nav>
+        <ul>
+        {% include sidebar.html %}
+        </ul>
+      </nav>
+      <article>
+        {{ content }}
+      </article>
+  </main>
+  </body>
+</html>

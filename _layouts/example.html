@@ -1,0 +1,44 @@
+---
+layout: white
+css: "
+main {display:block; padding:2em;}
+h2.pagetitle {margin: 1em 0; text-align: left;}
+img  {padding: 2em; border-radius:0; max-width: 50%}
+div.content{display: flex;}
+div#statement{}
+div#answer{background-color: aliceBlue;  width: max-content; display:none; padding: 1em; border: 3px solid gray; position: absolute; left: 5rem; top: 15rem;}
+button {font-size: .9rem; position: absolute; bottom: 10px; left: 10px; }
+div#next_prev {position: absolute; bottom: 10px; right: 20px;}
+"
+---
+
+<h2 class="pagetitle">{{page.file | replace: ".md", "" }}</h2>
+<div class="content">
+    {{ content }}
+    {% if page.imageFN %}
+        <img src="./images/{{page.imageFN}}" alt="diagram">
+    {% endif %}
+</div>
+
+
+<footer>
+<button id="more_info" onclick="toggleAnswer()">Show answer</button>
+
+<div id="next_prev">
+    {% if page.previous.url %}
+    <a  href="{{site.url}}{{page.previous.url}}">&nbsp;Previous</a>
+    {% endif %}
+    &nbsp; | &nbsp;
+    {% if page.next.url %}
+    <a href="{{site.url}}{{page.next.url}}">Next </a>
+    {% endif %}
+</div>
+</footer>
+
+<script>
+    function toggleAnswer() {
+        var answer = document.getElementById('answer');
+        answer.style.display = (answer.style.display === 'block') ? 'none' : 'block';
+    }
+</script>
+

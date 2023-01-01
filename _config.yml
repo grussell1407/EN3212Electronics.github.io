@@ -1,0 +1,52 @@
+# Setup site
+title:               'Syllabus'
+tagline:             'tagline'
+description:         'description'
+course_name:         'Electronics'
+course_num:          'EN-3212' # &#8209; non-breaking hyphen
+semester:            'Spring 2023'
+# url:                 'https://github.com/grussell1407/EN3212Electronics.github.io.git'
+url:                 'https://grussell1407.github.io/EN3212Electronics.github.io'
+baseurl:             ''
+# baseurl:             'EN3212Electronics.github.io'
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "_lessons"
+    values:
+      layout: lesson
+  -
+    scope:
+      path: "_examples"
+    values:
+      layout: example
+
+# About/contact
+author:
+  name:              Your Name
+  url:               ''
+  email:             yname@example.com
+  
+collections:
+  examples:
+    output: true
+    sort_by: lesson
+  lessons:
+    output: true
+    sort_by: lesson
+
+thumbnails:
+  folder: '/thumbs/' #default folder for thumbnails inside source folder
+  width: 120  #default width of thumbnails, can override by specifying width=xxx in thumblink tag
+
+exclude: [.idea]
+# Gems
+
+# Custom vars
+#google_analytics_id: #UA-XXXX-Y

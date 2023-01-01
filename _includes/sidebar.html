@@ -1,0 +1,16 @@
+
+<li>    <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a></li>
+<li>   <a  class="sidebar-nav-item" href="{{site.url}}/examples/">Example Problems</a></li>
+<li>    <a  class="sidebar-nav-item" href="{{site.url}}/docs/">Docs</a></li>
+<li>    <a  class="sidebar-nav-item" href="{{site.url}}/resources.html">Online Resources</a></li>
+<li>    <span class="sidebar-nav-item" style="display:flex; justify-content: space-between; height:30px;">
+           {% if page.previous.url %}
+        <a  href="{{site.url}}{{page.previous.url}}"><img src="{{site.url}}/images/nav/icon-back-30.png"></a>
+        {% endif %}
+        {% if page.next.url %}
+        <a href="{{site.url}}{{page.next.url}}"><img src="{{site.url}}/images/nav/icon-fwd-30.png"></a>
+        {% endif %}
+    </span></li>
+
+
+
