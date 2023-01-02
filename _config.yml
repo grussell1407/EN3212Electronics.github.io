@@ -5,10 +5,9 @@ description:         'description'
 course_name:         'Electronics'
 course_num:          'EN-3212' # &#8209; non-breaking hyphen
 semester:            'Spring 2023'
-# url:                 'https://github.com/grussell1407/EN3212Electronics.github.io.git'
-url:                 'https://grussell1407.github.io/EN3212Electronics.github.io'
+url:                 ''
+# url:                 'https://grussell1407.github.io/EN3212Electronics.github.io'
 baseurl:             ''
-# baseurl:             'EN3212Electronics.github.io'
 
 defaults:
   -
