@@ -1,0 +1,264 @@
+/*
+ * Body resets and default colors
+*/
+:root {
+  --theme-color: #005085;
+  --theme-text-color:  #515151;
+  --theme-grey: gray;
+  --sidebar-width: 13em;
+  font-size: 12pt;
+}
+
+html, body, main, nav {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  max-width:1200px;
+  line-height: 1.5;
+  color: var(--theme-text-color);
+}
+
+@media (min-width: 38em) {
+  html {
+    font-size: 20px;
+  }
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: .5rem;
+  font-weight: bold;
+  line-height: 1.25;
+  color: grey;
+  text-rendering: optimizeLegibility;
+}
+h1 {
+  font-size: 2rem;
+}
+h2 {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+  text-align:center;
+}
+h3 {
+  margin-top: 1.5rem;
+  font-size: 1.25rem;
+  text-align:center;
+  border-bottom: 2px solid var(--theme-grey);
+  padding-bottom: 6pt;
+}
+h4, h5, h6 {
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+/* flexbox setup */
+
+header{   /* Masthead in header */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: start;
+  padding: 1rem 0;
+  border-bottom: 4px solid var(--theme-grey);
+}
+main{
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  overflow: hidden;
+}
+article{
+  flex: 1;
+  margin: 0 1em;
+}
+
+/* ++++++++++++++++++++++ */
+
+/* basic setup */
+
+/*  Masthead */
+#nav-toggle{display:flex; align-items: flex-start;  flex: 0 1 var(--sidebar-width);}
+#site-info {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: baseline;
+  justify-content: start;
+  flex: 3;
+  align-self: center; }
+#site-info a:hover {text-decoration: none;}
+#site-title {font-size: 2.6rem; margin:0; padding-right: 1rem;}
+#site-subtitle {font-weight:bold;}
+#site-subtitle a {color:var(--theme-grey)}
+
+#top-links {display: flex; flex-flow: column;  font-size:0.8rem; color: var(--theme-grey);flex:2; text-align: right;padding-right: 1rem;}
+#top-links a {color:var(--theme-grey); flex: 1 0 100%;}
+
+
+/* sidebar */
+nav{
+  /* set the width of the sidebars hare and the next rule */
+  flex: 0 0 var(--sidebar-width);
+  transition: margin 0.3s ease;
+  background: var(--theme-color);
+ }
+
+/* Checkbox hack to toggle nav visibility by changing margin to off screen */
+input ~ nav {
+  margin-left: calc(-1 * var(--sidebar-width));
+}
+input:checked ~ nav {
+  margin-left: 0;
+}
+
+.hamburger::before {
+  display: block;
+  margin-left: 1rem;
+  width: 32px;
+  height: 32px;
+  content: "";
+  background: url("data:image/svg+xml,%3Csvg viewBox='0 0 16 16' fill='%23555' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' d='M2.5 11.5A.5.5 0 013 11h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5zm0-4A.5.5 0 013 7h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5zm0-4A.5.5 0 013 3h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5z' clip-rule='evenodd'/%3E%3C/svg%3E") no-repeat;
+}
+
+nav ul {margin:0; padding:0; display: flex; flex-direction: column;  height: fill-available; height: -webkit-fill-available;}
+nav li {list-style-type: none; padding: .5em 1em; border-top: 1px solid rgba(255,255,255,.2); color:white;}
+nav li a {color: white;}
+nav li a:hover{text-decoration: none;}
+nav li.active,
+nav li:hover,
+nav li:focus {
+  text-decoration: none;
+  background-color: rgba(255,255,255,.1);
+  border-color: transparent;
+}
+
+
+
+/* Syllabus Table */
+
+table.syllabus{
+  border:0;
+  font-size: .9rem;
+  width: max-content;
+}
+table.syllabus tbody tr td, table.syllabus tbody tr th{
+  padding: .1rem;
+  background-color: inherit;
+  border: 0;
+  border-bottom: 2px solid var(--theme-grey);
+  text-align:left;
+  flex-grow: 1;
+}
+
+/* thumbnails */
+
+/* wrap images with <div class='flex'> </div> */
+.flex {display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start; }
+
+figcaption {text-align:center;}
+
+.thumblink figcaption {
+  padding-top: 0.5em;
+}
+
+.thumblink img {
+  margin: 0;
+  box-shadow: 4px 4px 6px -2px rgba(136, 136, 136, 0.65);
+  border: 1px solid #cccccc;
+  border-radius: 3px;
+}
+
+.thumblink{
+  text-align:center;
+  vertical-align: top;
+}
+
+iframe {display:block; border: 1px solid black; margin: 1rem auto;}
+
+/* No `:visited` state is required by default (browsers will use `a`) */
+a {
+  color: var(--theme-color);
+  text-decoration: none;
+}
+a strong {
+  color: inherit;
+}
+/* `:focus` is linked to `:hover` for basic accessibility */
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
+
+
+strong {
+  font-weight: bold;
+}
+
+
+/* Lists */
+ul, ol, dl {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+dt {
+  font-weight: bold;
+}
+dd {
+  margin-bottom: .5rem;
+}
+
+/* Misc */
+hr {
+  position: relative;
+  margin: 1.5rem 0;
+  border: 0;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #fff;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin: 0 0 1rem;
+}
+
+/* Tables */
+table {
+  margin-bottom: 1rem;
+  width: 100%;
+  border: 1px solid #e5e5e5;
+  border-collapse: collapse;
+}
+td,
+th {
+  padding: .25rem .5rem;
+  border: 1px solid #e5e5e5;
+}
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+  background-color: #f9f9f9;
+}
+
+
+/*
+ * Messages
+ *
+ * Show alert messages to users. You may add it to single elements like a `<p>`,
+ * or to a parent if there are multiple elements to show.
+ */
+
+.message {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  color: #717171;
+  background-color: #f9f9f9;
+}

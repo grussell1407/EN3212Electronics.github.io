@@ -1,20 +1,20 @@
 Lesson,Date,Topic,Reading,Worksheets
-1,3/1/2023,Basic Electricity: Introduction / Review,,
+1,3/1/2023,Basic Electricity: Introduction / Review,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/review.html'>Electronics Review</a>
 2,3/3/2023,Basic Electricity: Review / Ohm's Law / Kirchhoff's Voltage and Current Law,,
 3,3/6/2023,Basic Electricity: Review / Series / Parallel / Voltage Divider / Current Divider,,
 4,3/8/2023,Basic Electricity: Review / Series / Parallel / Voltage Divider / Current Divider,,
 5,3/10/2023,Quiz 1,,
-6,3/13/2023,Resistor Networks: Parallel Series Analysis,,
-7,3/15/2023,Resistor Networks: Parallel Series Analysis / Wheatstone Bridge,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/review.html'>Electronics Review</a>
+6,3/13/2023,Resistor Networks: Parallel Series Analysis,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/DCAnalysis1.html'>DC Circuit Analysis 1</a>
+7,3/15/2023,Resistor Networks: Parallel Series Analysis / Wheatstone Bridge,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/DCAnalysis2.html'>DC Circuit Analysis 2</a>
 8,3/17/2023,Resistor Networks: Parallel Series Analysis / Grounds and Commons,,
-9,3/20/2023,Network Analysis: Superposition and Linearity,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/DCAnalysis1.html'>DC Circuit Analysis 1</a>
-10,3/22/2023,Network Analysis: Superposition and Linearity,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/DCAnalysis2.html'>DC Circuit Analysis 2</a>
+9,3/20/2023,Network Analysis: Superposition and Linearity,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Superposition.html'>Superposition</a>
+10,3/22/2023,Network Analysis: Superposition and Linearity,,
 11,3/24/2023,Quiz 2,,
-12,3/27/2023,Network Analysis: Node Mesh Analysis,,
-13,3/29/2023,Network Analysis: Node Mesh Analysis,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Superposition.html'>Superposition</a>
+12,3/27/2023,Network Analysis: Node Mesh Analysis,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Thevenin.html'>Thevenin's Theorem</a>
+13,3/29/2023,Network Analysis: Node Mesh Analysis,,
 14,3/31/2023,Frequency - Domain Analysis: complex numbers / Basic Operations,,
 15,4/3/2023,Frequency - Domain Analysis: Euler's formula/ complex numbers,,
-16,4/5/2023,Frequency - Domain Analysis: Complex impedance,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Thevenin.html'>Thevenin's Theorem</a>
+16,4/5/2023,Frequency - Domain Analysis: Complex impedance,,
 17,4/7/2023,Exam 1,,
 18,4/10/2023,Frequency - Domain Analysis: RLC Series / Theory,,
 19,4/12/2023,Frequency - Domain Analysis: RLC Series / Application,,
