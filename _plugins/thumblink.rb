@@ -18,7 +18,7 @@ class ThumbLink < Liquid::Tag
     @arg_hash=parse_args(@config, @args, context)
     thumbnail = @thumbnail.new(context, @arg_hash)
     # thumbnail.generate_thumb #-- uncomment to avoid cache.
-    "<figure class='thumblink'><a href='#{thumbnail.href}'> <img src='#{thumbnail.src}' width='#{thumbnail.width}' height='#{1.29 * thumbnail.width}' class='thumb'> <figcaption style='width: #{thumbnail.width}px;'>#{thumbnail.caption}</figcaption></a></figure>"
+    "<figure class='thumblink'><a href='https://grussell1407.github.io/EN3212Electronics.github.io#{thumbnail.href}'> <img src='https://grussell1407.github.io/EN3212Electronics.github.io#{thumbnail.src}' width='#{thumbnail.width}' height='#{1.29 * thumbnail.width}' class='thumb'> <figcaption style='width: #{thumbnail.width}px;'>#{thumbnail.caption}</figcaption></a></figure>"
   end
 
   def parse_args(_config, args, context)

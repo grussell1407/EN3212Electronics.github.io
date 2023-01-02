@@ -5,7 +5,7 @@ Lesson,Date,Topic,Reading,Worksheets
 4,3/8/2023,Basic Electricity: Review / Series / Parallel / Voltage Divider / Current Divider,,
 5,3/10/2023,Quiz 1,,
 6,3/13/2023,Resistor Networks: Parallel Series Analysis,,
-7,3/15/2023,Resistor Networks: Parallel Series Analysis / Wheatstone Bridge,,<a href = '/lessons/review.html'>Electronics Review</a>
+7,3/15/2023,Resistor Networks: Parallel Series Analysis / Wheatstone Bridge,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/review.html'>Electronics Review</a>
 8,3/17/2023,Resistor Networks: Parallel Series Analysis / Grounds and Commons,,
 9,3/20/2023,Network Analysis: Superposition and Linearity,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/DCAnalysis1.html'>DC Circuit Analysis 1</a>
 10,3/22/2023,Network Analysis: Superposition and Linearity,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/DCAnalysis2.html'>DC Circuit Analysis 2</a>
