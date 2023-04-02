@@ -12,9 +12,9 @@ Lesson,Date,Topic,Reading,Worksheets
 11,3/24/2023,Quiz 2,,
 12,3/27/2023,Network Analysis: Node Mesh Analysis,"2.26, 3.6 - 3.6.3, 3.6.5",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/NodeMesh.html'>Node Mesh</a>
 13,3/29/2023,Network Analysis: Node Mesh Analysis,"2.27, 3.7 - 3.7.3, 3.7.5",
-14,3/31/2023,Frequency - Domain Analysis: complex numbers / Basic Operations,2.27.1,
-15,4/3/2023,Frequency - Domain Analysis: Euler's formula/ complex numbers,,
-16,4/5/2023,Frequency - Domain Analysis: Complex impedance,2.27.2,
+14,3/31/2023,Frequency - Domain Analysis: complex numbers / Basic Operations,2.27.1,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Complex.html'>Complex Numbers</a>
+15,4/3/2023,Frequency - Domain Analysis: Euler's formula/ complex numbers,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/ACReview.html'>AC Review</a>
+16,4/5/2023,Frequency - Domain Analysis: Complex impedance,2.27.2,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Impedance.html'>Impedance</a>
 17,4/7/2023,Exam 1,,
 18,4/10/2023,Frequency - Domain Analysis: RLC Series / Theory,2.27.3,
 19,4/12/2023,Frequency - Domain Analysis: RLC Series / Application,2.28.1,
