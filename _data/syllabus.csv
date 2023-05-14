@@ -24,9 +24,9 @@ Lesson,Date,Topic,Reading,Worksheets
 23,4/26/2023,Frequency - Domain Analysis: Parallel Series/ Application,2.35.1,
 24,4/28/2023,Quiz 3,"4.2.1, 4.2.2, 4.3.1, 4.3.2",
 25,5/1/2023,Solid State: Diodes/ Transistors,8 - 8.3,
-26,5/3/2023,Op - Amps: Ideal Op - Amps / Feedback,8.4 - 8.5,
-27,5/5/2023,Op - Amps: Basic Circuits,,
-28,5/8/2023,Op - Amps: Multiple Op - Amp Circuits,,
+26,5/3/2023,Op - Amps: Ideal Op - Amps / Feedback,8.4 - 8.5,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/OpAmpIntro.html'>Introduction to Op-Amps</a>
+27,5/5/2023,Op - Amps: Basic Circuits,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/OpAmpSigCon1.html'>Op-Amps Signal Conditioning 1</a>
+28,5/8/2023,Op - Amps: Multiple Op - Amp Circuits,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/OpAmpSigCon2.html'>Op-Amps Signal Conditioning 2</a>
 29,5/10/2023,Op - Amps: Practical Op - Amps/ Signal Conditioning,,
 30,5/12/2023,Quiz 4,12.2 - 12.2.3,
 31,5/15/2023,Combinational Logic: Electronics and Digital Systems / Gates,12.2.4,
