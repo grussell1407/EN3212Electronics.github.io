@@ -1,8 +1,8 @@
 Lesson,Date,Topic,Reading,Worksheets
 1,9/6/2023,Basic Electricity: Introduction / Review,"2.1 - 2.32, 2.3.5, 3.5 - 3.5.2  ",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Review01.html'>Review Part 1</a>
 2,9/8/2023,Basic Electricity: Review,"2.7, 2.12 - 2.12.3",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Review02.html'>Review Part 2</a>
-3,9/11/2023,Resistor Networks: Parallel Series Analysis,"2.7, 2.12 - 2.12.3",
-4,9/13/2023,Resistor Networks: Parallel Series Analysis / Wheatstone Bridge,"2.7, 2.12 - 2.12.3",
+3,9/11/2023,Resistor Networks: Parallel Series Analysis,"2.7, 2.12 - 2.12.3",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/PSA.html'>Parallel Series Analysis</a>
+4,9/13/2023,Resistor Networks: Parallel Series Analysis / Wheatstone Bridge,"2.7, 2.12 - 2.12.3",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/WSB.html'>Wheatstone Bridge</a>
 5,9/15/2023,Quiz 1,,
 6,9/18/2023,Resistor Networks: Parallel Series Analysis / Grounds and Commons,2.12.4 - 2.16,
 7,9/20/2023,Network Analysis: Superposition and Linearity,2.10 - 2.10.1,
