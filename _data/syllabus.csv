@@ -4,8 +4,8 @@ Lesson,Date,Topic,Reading,Worksheets
 3,9/11/2023,Resistor Networks: Parallel Series Analysis,"2.7, 2.12 - 2.12.3",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/PSA.html'>Parallel Series Analysis</a>
 4,9/13/2023,Resistor Networks: Parallel Series Analysis / Wheatstone Bridge,"2.7, 2.12 - 2.12.3",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/WSB.html'>Wheatstone Bridge</a>
 5,9/15/2023,Quiz 1,,
-6,9/18/2023,Resistor Networks: Parallel Series Analysis / Grounds and Commons,2.12.4 - 2.16,
-7,9/20/2023,Network Analysis: Superposition and Linearity,2.10 - 2.10.1,
+6,9/18/2023,Resistor Networks: Parallel Series Analysis / Grounds and Commons,2.12.4 - 2.16,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/GandC.html'>Grounds and Commons</a>
+7,9/20/2023,Network Analysis: Superposition and Linearity,2.10 - 2.10.1,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Superposition.html'>Superposition</a>
 8,9/22/2023,Network Analysis: Node Mesh Analysis,2.18,
 9,9/25/2023,Network Analysis: In Class Exercise,,
 10,9/27/2023,Network Analysis: In Class Exercise,2.17,
