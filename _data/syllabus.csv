@@ -6,8 +6,8 @@ Lesson,Date,Topic,Reading,Worksheets
 5,9/15/2023,Quiz 1,,
 6,9/18/2023,Resistor Networks: Parallel Series Analysis / Grounds and Commons,2.12.4 - 2.16,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/GandC.html'>Grounds and Commons</a>
 7,9/20/2023,Network Analysis: Superposition and Linearity,2.10 - 2.10.1,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Superposition.html'>Superposition</a>
-8,9/22/2023,Network Analysis: Node Mesh Analysis,2.18,
-9,9/25/2023,Network Analysis: In Class Exercise,,
+8,9/22/2023,Network Analysis: Node Mesh Analysis,2.18,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/NodeMesh.html'>Node Mesh</a>
+9,9/25/2023,Network Analysis: Transfer Functions,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/TF.html'>Transfer Functions</a>
 10,9/27/2023,Network Analysis: In Class Exercise,2.17,
 11,9/29/2023,Quiz 2,,
 12,10/2/2023,Frequency - Domain Analysis: complex numbers / Basic Operations/ Euler's formula,"2.26, 3.6 - 3.6.3, 3.6.5",
