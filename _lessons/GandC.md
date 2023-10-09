@@ -1,6 +1,6 @@
 ---
 title: "Grounds and Commons"
-lesson: 5
+lesson: 6
 ---
 
 ### Grounds and Commons

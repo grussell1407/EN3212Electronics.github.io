@@ -1,6 +1,6 @@
 ---
 title: "Superposition"
-lesson: 6
+lesson: 7
 ---
 
 ### Superposition

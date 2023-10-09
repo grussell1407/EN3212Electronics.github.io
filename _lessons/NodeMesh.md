@@ -1,6 +1,6 @@
 ---
 title: "Node Mesh"
-lesson: 7
+lesson: 8
 ---
 
 ### Node Mesh

@@ -1,6 +1,6 @@
 ---
 title: "Complex Numbers"
-lesson: 9
+lesson: 12
 ---
 
 ### Complex Numbers
