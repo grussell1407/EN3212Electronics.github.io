@@ -12,8 +12,8 @@ Lesson,Date,Topic,Reading,Worksheets
 11,9/29/2023,Quiz 2,,
 12,10/2/2023,Frequency - Domain Analysis: complex numbers / Basic Operations/ Euler's formula,"2.26, 3.6 - 3.6.3, 3.6.5",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/CompNum.html'>Complex Numbers</a>
 13,10/4/2023,Frequency - Domain Analysis: Complex impedance,"2.27, 3.7 - 3.7.3, 3.7.5",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/CompImp.html'>Complex Impedance</a>
-14,10/6/2023,Frequency - Domain Analysis: RLC Series,2.27.1,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/ACAnalysis.html'>AC Analysis</a>
-15,10/10/2023,Frequency - Domain Analysis: RLC Parallel,,
+14,10/6/2023,Frequency - Domain Analysis: RLC Series,2.27.1,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/ACAnalysis1.html'>AC Analysis Part 1</a>
+15,10/10/2023,Frequency - Domain Analysis: RLC Parallel,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/ACAnalysis2.html'>AC Analysis Part 2</a>
 16,10/11/2023,Frequency - Domain Analysis: RLC Series Parallel,2.27.2,
 17,10/13/2023,Frequency - Domain Analysis: Filters,,
 18,10/16/2023,Frequency - Domain Analysis: Filters,2.27.3,
