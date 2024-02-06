@@ -3,7 +3,7 @@ title: "Resonance"
 lesson: 16
 ---
 
-### Complex Impedance
+### Resonance
 <div class='flex'>
 	{% imgLink src='Resonance.pdf' caption='Resonance' %}
 </div>
