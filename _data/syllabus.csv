@@ -26,8 +26,8 @@ Lesson,Date,Topic,Reading,Worksheets
 25,3/6/2024,Op - Amps: Equation Building 2,8 - 8.3,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/EqnBuild2.html'>Equation Building 2</a>
 26,3/8/2024,Op - Amps: Practical Op - Amps/ Signal Conditioning,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Conditioning.html'>Signal Conditioning</a>
 27,3/11/2024,Quiz 3,8.4 - 8.5,
-28,3/13/2024,Combinational Logic: Electronics and Digital Systems / Gates,,
-29,3/15/2024,Combinational Logic: Applications / Analog to Digital Converter,,
+28,3/13/2024,Combinational Logic: Electronics and Digital Systems / Gates,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/LogicIntro.html'>Logic Gates: Intro</a>
+29,3/15/2024,Combinational Logic: Applications / Analog to Digital Converter,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/LogicApplication.html'>Logic Gates: Application</a>
 30,3/18/2024,Combinational Logic: Boolean Algebra and Equations,,
 31,3/20/2024,Combinational Logic: Equations to /from Circuits,12.2 - 12.2.3,
 32,3/22/2024,Combinational Logic: In Class Exercise,12.2.4,
