@@ -1,41 +1,41 @@
 Lesson,Date,Topic,Reading,Worksheets
-1,1/8/2024,Basic Electricity: Introduction / Review,"2.1 - 2.32, 2.3.5, 3.5 - 3.5.2  ",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Review01.html'>Review Part 1</a>
-2,1/10/2024,Basic Electricity: Review,"2.7, 2.12 - 2.12.3",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Review02.html'>Review Part 2</a>
-3,1/12/2024,Resistor Networks: Parallel Series Analysis,"2.7, 2.12 - 2.12.3",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/PSA.html'>Parallel Series Analysis</a>
-4,1/16/2024,Resistor Networks: Parallel Series Analysis / Wheatstone Bridge,"2.7, 2.12 - 2.12.3",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/WSB.html'>Wheatstone Bridge</a>
-5,1/17/2024,Quiz 1,,
-6,1/19/2024,Resistor Networks: Parallel Series Analysis / Grounds and Commons,2.12.4 - 2.16,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/GandC.html'>Grounds and Commons</a>
-7,1/22/2024,Network Analysis: Superposition and Linearity,2.10 - 2.10.1,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Superposition.html'>Superposition</a>
-8,1/24/2024,Network Analysis: Node Mesh Analysis 1,2.18,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/NodeMesh.html'>Node Mesh</a>
-9,1/26/2024,Network Analysis: Node Mesh Analysis 2,,
-10,1/29/2024,Network Analysis: In Class Exercise,2.17,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/TF.html'>Transfer Functions</a>
-11,1/31/2024,Quiz 2,,
-12,2/2/2024,Frequency - Domain Analysis: complex numbers / Basic Operations/ Euler's formula,"2.26, 3.6 - 3.6.3, 3.6.5",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/CompNum.html'>Complex Numbers</a>
-13,2/5/2024,Frequency - Domain Analysis: Complex impedance,"2.27, 3.7 - 3.7.3, 3.7.5",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/CompImp.html'>Complex Impedance</a>
-14,2/7/2024,Frequency - Domain Analysis: Circuit Analysis 1,2.27.1,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/ACAnalysis1.html'>AC Analysis Part 1</a>
-15,2/9/2024,Frequency - Domain Analysis: Circuit Analysis 2,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/ACAnalysis2.html'>AC Analysis Part 2</a>
-16,2/12/2024,Frequency - Domain Analysis: Resonance and Harmonics,2.27.2,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Resonance.html'>Resonance</a>
-17,2/14/2024,Frequency - Domain Analysis: Filters,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Filters.html'>Filters</a>
-18,2/16/2024,Frequency - Domain Analysis: Frequency Response Functions,2.27.3,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/FRF.html'>FRF</a>
-19,2/21/2024,Frequency - Domain Analysis: In Class Exercise,2.28.1,
-20,2/23/2024,Exam 1,2.30.1,
-21,2/26/2024,Solid State: Diodes/ Transistors,2.31.1,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Transistors.html'>Transistors</a>
-22,2/28/2024,Op - Amps: Ideal Op - Amps / Feedback,2.33.1,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/OpAmpIntro.html'>Op Amps Introduction</a>
-23,3/1/2024,Op - Amps: Basic Circuits,2.35.1,
-24,3/4/2024,Op - Amps: Equation Building 1,"4.2.1, 4.2.2, 4.3.1, 4.3.2",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/EqnBuild1.html'>Equation Building 1</a>
-25,3/6/2024,Op - Amps: Equation Building 2,8 - 8.3,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/EqnBuild2.html'>Equation Building 2</a>
-26,3/8/2024,Op - Amps: Practical Op - Amps/ Signal Conditioning,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Conditioning.html'>Signal Conditioning</a>
-27,3/11/2024,Quiz 3,8.4 - 8.5,
-28,3/13/2024,Combinational Logic: Electronics and Digital Systems / Gates,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/LogicIntro.html'>Logic Gates: Intro</a>
-29,3/15/2024,Combinational Logic: Applications / Analog to Digital Converter,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/LogicApplication.html'>Logic Gates: Application</a>
-30,3/18/2024,Combinational Logic: Boolean Algebra and Equations,,
-31,3/20/2024,Combinational Logic: Equations to /from Circuits,12.2 - 12.2.3,
-32,3/22/2024,Combinational Logic: In Class Exercise,12.2.4,
-33,3/25/2024,Quiz 4,,
-34,3/27/2024,Base Conversion: Bin to Dec / Hexto Dec / Dec to Bin,,
-35,3/29/2024,Base Conversion: Dec to Bin / Bin to Hex / Hex to Bin,,
-36,4/1/2024,Data Transfer: Series / Parallel / Methods,,
-37,4/3/2024,Digital Outputs: Signal amplification,12.1 - 12.1.2,
-38,4/5/2024,Digital Outputs: Pulse Width Modulation / Variable Frequency Drives,"12.1.3, 12.2.1",
-39,4/8/2024,Course Overview,,
-40,4/10/2024,Exam 2,,
+1,3/5/2025,Basic Electricity: Introduction / Review,"2.1 - 2.32, 2.3.5, 3.5 - 3.5.2  ",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Review01.html'>Review Part 1</a>
+2,3/7/2025,Basic Electricity: Review,"2.7, 2.12 - 2.12.3",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Review02.html'>Review Part 2</a>
+3,3/10/2025,Resistor Networks: Parallel Series Analysis,"2.7, 2.12 - 2.12.3",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/PSA.html'>Parallel Series Analysis</a>
+4,3/12/2025,Resistor Networks: Parallel Series Analysis / Wheatstone Bridge,"2.7, 2.12 - 2.12.3",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/WSB.html'>Wheatstone Bridge</a>
+5,3/14/2025,Quiz 1,,
+6,3/17/2025,Resistor Networks: Parallel Series Analysis / Grounds and Commons,2.12.4 - 2.16,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/GandC.html'>Grounds and Commons</a>
+7,3/19/2025,Network Analysis: Superposition and Linearity,2.10 - 2.10.1,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Superposition.html'>Superposition</a>
+8,3/21/2025,Network Analysis: Node Mesh Analysis 1,2.18,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/NodeMesh.html'>Node Mesh</a>
+9,3/24/2025,Network Analysis: Node Mesh Analysis 2,,
+10,3/26/2025,Network Analysis: In Class Exercise,2.17,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/TF.html'>Transfer Functions</a>
+11,3/28/2025,Quiz 2,,
+12,3/31/2025,Frequency - Domain Analysis: complex numbers / Basic Operations/ Euler's formula,"2.26, 3.6 - 3.6.3, 3.6.5",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/CompNum.html'>Complex Numbers</a>
+13,4/2/2025,Frequency - Domain Analysis: Complex impedance,"2.27, 3.7 - 3.7.3, 3.7.5",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/CompImp.html'>Complex Impedance</a>
+14,4/4/2025,Frequency - Domain Analysis: Circuit Analysis 1,2.27.1,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/ACAnalysis1.html'>AC Analysis Part 1</a>
+15,4/7/2025,Frequency - Domain Analysis: Circuit Analysis 2,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/ACAnalysis2.html'>AC Analysis Part 2</a>
+16,4/9/2025,Frequency - Domain Analysis: Resonance and Harmonics,2.27.2,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Resonance.html'>Resonance</a>
+17,4/11/2025,Frequency - Domain Analysis: Filters,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Filters.html'>Filters</a>
+18,4/14/2025,Frequency - Domain Analysis: Frequency Response Functions,2.27.3,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/FRF.html'>FRF</a>
+19,4/16/2025,Frequency - Domain Analysis: In Class Exercise,2.28.1,
+20,4/23/2025,Exam 1,2.30.1,
+21,4/25/2025,Solid State: Diodes/ Transistors,2.31.1,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Transistors.html'>Transistors</a>
+22,4/28/2025,Op - Amps: Ideal Op - Amps / Feedback,2.33.1,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/OpAmpIntro.html'>Op Amps Introduction</a>
+23,4/30/2025,Op - Amps: Basic Circuits,2.35.1,
+24,5/2/2025,Op - Amps: Equation Building 1,"4.2.1, 4.2.2, 4.3.1, 4.3.2",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/EqnBuild1.html'>Equation Building 1</a>
+25,5/5/2025,Op - Amps: Equation Building 2,8 - 8.3,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/EqnBuild2.html'>Equation Building 2</a>
+26,5/7/2025,Op - Amps: Practical Op - Amps/ Signal Conditioning,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Conditioning.html'>Signal Conditioning</a>
+27,5/9/2025,Quiz 3,8.4 - 8.5,
+28,5/12/2025,Combinational Logic: Electronics and Digital Systems / Gates,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/LogicIntro.html'>Logic Gates: Intro</a>
+29,5/14/2025,Combinational Logic: Applications / Analog to Digital Converter,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/LogicApplication.html'>Logic Gates: Application</a>
+30,5/16/2025,Combinational Logic: Boolean Algebra and Equations,,
+31,5/19/2025,Combinational Logic: Equations to /from Circuits,12.2 - 12.2.3,
+32,5/21/2025,Combinational Logic: In Class Exercise,12.2.4,
+33,5/23/2025,Quiz 4,,
+34,5/27/2025,Base Conversion: Bin to Dec / Hexto Dec / Dec to Bin,,
+35,5/28/2025,Base Conversion: Dec to Bin / Bin to Hex / Hex to Bin,,
+36,5/30/2025,Data Transfer: Series / Parallel / Methods,,
+37,5/2/2025,Digital Outputs: Signal amplification,12.1 - 12.1.2,
+38,5/4/2025,Digital Outputs: Pulse Width Modulation / Variable Frequency Drives,"12.1.3, 12.2.1",
+39,5/6/2025,Course Overview,,
+40,5/9/2025,Exam 2,,
