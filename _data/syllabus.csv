@@ -1,42 +1,42 @@
 Lesson,Date,Topic,Reading,Worksheets
-1,9/3/2025,Basic Electricity: Introduction / Review,"2.1 - 2.32, 2.3.5, 3.5 - 3.5.2  ",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Review01.html'>Review Part 1</a>
-2,9/5/2025,Basic Electricity: Review,"2.7, 2.12 - 2.12.3",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Review02.html'>Review Part 2</a>
-3,9/8/2025,Resistor Networks: Parallel Series Analysis,"2.7, 2.12 - 2.12.3",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/PSA.html'>Parallel Series Analysis</a>
-4,9/10/2025,Resistor Networks: Parallel Series Analysis / Wheatstone Bridge,"2.7, 2.12 - 2.12.3",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/WSB.html'>Wheatstone Bridge</a>
-5,9/12/2025,Quiz 1,,
-6,9/15/2025,Resistor Networks: Parallel Series Analysis / Grounds and Commons,2.12.4 - 2.16,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/GandC.html'>Grounds and Commons</a>
-7,9/17/2025,Network Analysis: Superposition and Linearity,2.10 - 2.10.1,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Superposition.html'>Superposition</a>
-8,9/19/2025,Network Analysis: Node Mesh Analysis 1,2.18,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/NodeMesh.html'>Node Mesh</a>
-9,9/22/2025,Network Analysis: Node Mesh Analysis 2,,
-10,9/24/2025,Network Analysis: In Class Exercise,2.17,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/TF.html'>Transfer Functions</a>
-11,9/26/2025,Quiz 2,,
-12,9/29/2025,Frequency - Domain Analysis: complex numbers / Basic Operations/ Euler's formula,"2.26, 3.6 - 3.6.3, 3.6.5",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/CompNum.html'>Complex Numbers</a>
-13,10/1/2025,Frequency - Domain Analysis: Complex impedance,"2.27, 3.7 - 3.7.3, 3.7.5",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/CompImp.html'>Complex Impedance</a>
-14,10/3/2025,Frequency - Domain Analysis: Circuit Analysis 1,2.27.1,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/ACAnalysis1.html'>AC Analysis Part 1</a>
-15,10/6/2025,Frequency - Domain Analysis: Circuit Analysis 2,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/ACAnalysis2.html'>AC Analysis Part 2</a>
-16,10/8/2025,Frequency - Domain Analysis: Resonance and Harmonics,2.27.2,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Resonance.html'>Resonance</a>
-17,10/10/2025,Frequency - Domain Analysis: Filters,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Filters.html'>Filters</a>
-18,10/15/2025,Frequency - Domain Analysis: Frequency Response Functions,2.27.3,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/FRF.html'>FRF</a>
-19,10/17/2025,Frequency - Domain Analysis: In Class Exercise,2.28.1,
-20,10/20/2025,Exam 1,2.30.1,
-21,10/22/2025,Solid State: Diodes/ Transistors,2.31.1,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Transistors.html'>Transistors</a>
-22,10/24/2025,Op - Amps: Ideal Op - Amps / Feedback,2.33.1,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/OpAmpIntro.html'>Op Amps Introduction</a>
-23,10/27/2025,Op - Amps: Basic Circuits,2.35.1,
-24,10/29/2025,Op - Amps: Equation Building 1,"4.2.1, 4.2.2, 4.3.1, 4.3.2",<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/EqnBuild1.html'>Equation Building 1</a>
-25,10/31/2025,Op - Amps: Equation Building 2,8 - 8.3,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/EqnBuild2.html'>Equation Building 2</a>
-26,11/3/2025,Op - Amps: Practical Op - Amps/ Signal Conditioning,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Conditioning.html'>Signal Conditioning</a>
-27,11/5/2025,Quiz 3,8.4 - 8.5,
-28,11/7/2025,Combinational Logic: Electronics and Digital Systems / Gates,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/LogicIntro.html'>Logic Gates: Intro</a>
-29,11/10/2025,Combinational Logic: Applications / Analog to Digital Converter,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/LogicApplication.html'>Logic Gates: Application</a>
-30,11/12/2025,Combinational Logic: Boolean Algebra and Equations,,
-31,11/14/2025,Combinational Logic: Equations to /from Circuits,12.2 - 12.2.3,
-32,11/17/2025,Combinational Logic: In Class Exercise,12.2.4,
-33,11/19/2025,Quiz 4,,
-34,11/21/2025,Base Conversion: Bin to Dec / Hexto Dec / Dec to Bin,,
-35,11/24/2025,Base Conversion: Dec to Bin / Bin to Hex / Hex to Bin,,
-36,12/1/2025,Data Transfer: Series / Parallel / Methods,,
-37,12/3/2025,Digital Outputs: Signal amplification,12.1 - 12.1.2,
-38,12/5/2025,Digital Outputs: Pulse Width Modulation / Variable Frequency Drives,"12.1.3, 12.2.1",
-39,12/8/2025,Course Overview,,
-40,12/10/2025,Exam 2,,
-41,12/12/2025,Final Exam Review,,
+1,3/4/2026,Basic Electricity: Introduction / Electricity and Magnatism,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Review01.html'>Review Part 1</a>
+2,3/6/2026,Basic Electricity: Current / Voltage / Energy and Power / Resistors,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Review02.html'>Review Part 2</a>
+3,3/9/2026,Basic Electricity: Ohm's Law / Voltage Sources / Current Sources / Switches / Simple Circuits,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/PSA.html'>Parallel Series Analysis</a>
+4,3/11/2026,Basic Electricity: Capacitors / Inductors / Nonlinear Voltage and Current Sources / Safety,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/WSB.html'>Wheatstone Bridge</a>
+5,3/13/2026,Resistor Networks: Conductance / Kirchhoff's Voltage Law,,
+6,3/16/2026,Resistor Networks: Series and Parallel / Voltage Divider,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/GandC.html'>Grounds and Commons</a>
+7,3/18/2026,Resistor Networks: Kirchhoff's Current Law / Current divider,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Superposition.html'>Superposition</a>
+8,3/20/2026,Quiz 1,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/NodeMesh.html'>Node Mesh</a>
+9,3/23/2026,Resistor Networks: Parallel Series Analysis / Additional Topics,,
+10,2/25/2026,Resistor Networks: Parallel Series Analysis / Additional Topics,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/TF.html'>Transfer Functions</a>
+11,3/27/2026,Network Analysis: Superposition and Linearity,,
+12,3/30/2026,Network Analysis: Node Analysis / Mesh Analysis,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/CompNum.html'>Complex Numbers</a>
+13,4/1/2026,Network Analysis: Node Analysis / Mesh Analysis,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/CompImp.html'>Complex Impedance</a>
+14,4/3/2026,Network Analysis: Thevenin Equivalent / Norton Equivalent / Source Transformations,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/ACAnalysis1.html'>AC Analysis Part 1</a>
+15,4/6/2026,Network Analysis: Thevenin Equivalent / Norton Equivalent / Source Transformations,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/ACAnalysis2.html'>AC Analysis Part 2</a>
+16,4/8/2026,Network Analysis: Thevenin Equivalent / Norton Equivalent / Source Transformations,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Resonance.html'>Resonance</a>
+17,4/10/2026,Quiz 2,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Filters.html'>Filters</a>
+18,4/13/2026,Semester Summary: WSB Temperature Sensor / After Exam 1,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/FRF.html'>FRF</a>
+19,4/15/2026,Exam 1 Review,,
+20,4/22/2026,Exam 1,,
+21,4/24/2026,Frequency - Domain Analysis: Sinusoidal Steady State / Complex numbers / Euler's formula,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Transistors.html'>Transistors</a>
+22,4/27/2026,"Frequency - Domain Analysis: Resistor, Capcitor, and Inductor Impedance",,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/OpAmpIntro.html'>Op Amps Introduction</a>
+23,4/29/2026,"Frequency - Domain Analysis: Resistor, Capcitor, and Inductor Impedance",,
+24,5/1/2026,Frequency - Domain Analysis: Admittance / First - Order Frequency Response,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/EqnBuild1.html'>Equation Building 1</a>
+25,5/4/2026,Frequency - Domain Analysis: Phasors / RMS Voltages and Currents,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/EqnBuild2.html'>Equation Building 2</a>
+26,5/6/2026,Quiz 3,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/Conditioning.html'>Signal Conditioning</a>
+27,5/8/2026,Frequency - Domain Analysis: Reactive Power / Complex Power / Power Factor Correction,,
+28,5/11/2026,Op - Amps: Ideal Op - Amps / Feedback,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/LogicIntro.html'>Logic Gates: Intro</a>
+29,5/13/2026,Op - Amps: Inverting Amplifier / Noninverting Amplifier / Integrator and Differentiator,,<a href = 'https://grussell1407.github.io/EN3212Electronics.github.io/lessons/LogicApplication.html'>Logic Gates: Application</a>
+30,5/15/2026,Op - Amps: Practical Op - Amps,,
+31,5/18/2026,Op - Amps: Multiple Op - Amp Circuits,,
+32,5/20/2026,Quiz 4,,
+33,5/22/2026,Combinational Logic: Electronics and Digital Systems / Gates,,
+34,5/26/2026,Combinational Logic: Boolean Algebra and Equations,,
+35,5/27/2026,Combinational Logic: Equations to/from Circuits,,
+36,5/29/2026,Combinational Logic: Two - Level Combinational Logic Simplification,,
+37,6/1/2026,Combinational Logic: Demorgan's Law,12.1 - 12.1.2,
+38,6/3/2026,Exam 2 Review,"12.1.3, 12.2.1",
+39,6/5/2026,Exam 2,,
+40,6/8/2026,Final Review,,
+,,,,
